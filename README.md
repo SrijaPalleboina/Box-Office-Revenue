@@ -1,8 +1,9 @@
 # Box-Office-Revenue
-#Abstract
+#**Abstract**
+
 This project aims to predict box office revenue for movies using machine learning. We leverage a dataset containing movie-related features such as budget, genre, cast, and release date. The machine learning model is developed to provide accurate revenue predictions, benefiting the movie industry.
 
-#Categorical and Numeric Columns :
+**#Categorical and Numeric Columns :**
 Categorical Column
 Color Director name actor name genres movie_title language country content_rating.
 
